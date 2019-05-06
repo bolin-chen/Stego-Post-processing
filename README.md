@@ -1,5 +1,5 @@
 # Stego-Post-processing
-A post-processing method to enhance image steganography in spatial domain.
+A simple yet effective post-processing method to enhance image steganography in spatial domain.
 
 ## Usage
 ```matlab
